@@ -12,4 +12,5 @@ This is part of the infoplus project, and its job is to compile C++ code that is
 
 # How to run
 
+- install dependencies through `npm install`
 - run `node server.js`
